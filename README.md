@@ -1,50 +1,64 @@
+
 <!-- ===================== -->
 <!-- HERO BANNER -->
 <!-- ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:00c6ff&height=200&section=header&text=Oluwafemi%20%7C%20AI%20%26%20Drone%20Developer&fontSize=28&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=220&section=header&text=Oluwafemi%20%7C%20AI%20%26%20Drone%20Systems%20Engineer&fontSize=26&fontColor=ffffff" />
 </p>
 
 ---
 
-## 👋 About Me
+## 🚀 About Me
 
-I’m a Python developer focused on building intelligent systems in:
-- 🤖 Artificial Intelligence (AI)
-- 🚁 Drone Software & Simulation
-- ⚙️ Automation Tools
+I’m a Python developer focused on building intelligent systems that combine:
 
-My goal is to become a **Machine Learning & Drone Systems Engineer** building real-world autonomous systems.
+- 🤖 Artificial Intelligence
+- 🚁 Drone Navigation & Simulation
+- ⚙️ Automation Engineering
+
+I enjoy building systems that don’t just run code — but **make decisions, react, and behave like real-world agents**.
 
 ---
 
 ## 🎯 Current Focus
 
-- 🚁 Building drone navigation simulations  
-- 📊 Creating automation and data tools  
-- 👨‍💻 Strengthening Python engineering skills  
-- 🧠 Learning Machine Learning fundamentals 
+I am currently developing skills in:
+
+- Machine Learning fundamentals
+- Autonomous drone systems (simulation-based)
+- Computer vision for object tracking
+- Data-driven automation tools
+- Clean software architecture in Python
+
+---
+
+## 🧠 Engineering Mindset
+
+I don’t just write scripts — I build systems with structure:
+
+- Inputs → Processing → Decisions → Outputs
+- Logging and telemetry thinking
+- Modular code design
+- Real-world simulation thinking
+
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-
-<!-- Languages -->
+### Core
+<p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
-<!-- Data / AI -->
+### Data & AI
+<p>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=google&logoColor=white"/>
-
-<!-- Learning -->
 <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-
 </p>
 
 ---
@@ -52,34 +66,43 @@ My goal is to become a **Machine Learning & Drone Systems Engineer** building re
 ## 📂 Featured Projects
 
 ### 📊 Trade Journal Analyzer
-Python tool for analyzing trading performance.
+A data analysis tool for evaluating trading performance.
 
-- Win rate calculations
-- Profit tracking
-- CSV data analysis
-
----
-
-### 🚁 Drone Mission Simulator (WIP)
-Autonomous drone simulation system.
-
-- Waypoint navigation
-- Telemetry tracking
-- Return-to-home logic
-- Mission state control
+**Key Concepts:**
+- Data cleaning & parsing
+- Performance metrics calculation
+- CSV-based analytics engine
 
 ---
 
-## 📈 GitHub Stats
+### 🚁 Drone Mission Simulator (Core Project)
+A simulation system for autonomous drone decision-making.
+
+**System Design:**
+- Mission planning module
+- Waypoint navigation logic
+- Telemetry tracking system
+- Return-to-home safety behavior
+
+**Goal:** Simulate real-world autonomous drone behavior in Python
+
+---
+
+### 🧠 Upcoming Project: AI Drone Vision System
+An AI-based vision system for object detection and tracking in drone environments.
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emmydex&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emmydex&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=emmydex&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emmydex&theme=tokyonight" height="170"/>
 </p>
 
 ---
 
-## 🧠 Coding Activity
+## 📈 Activity Overview
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=emmydex&theme=tokyo-night"/>
@@ -87,35 +110,31 @@ Autonomous drone simulation system.
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 2026 Roadmap
 
-- Build 10+ real-world projects  
-- Complete Drone AI system  
-- Learn Computer Vision (OpenCV)  
-- Build ML models from scratch  
-- Get AI / Software Engineering internship  
+- Build 10 production-level Python projects
+- Complete Drone AI simulation system
+- Learn Computer Vision (OpenCV)
+- Build first ML model from scratch
+- Start contributing to open-source AI projects
+- Land AI / Software Engineering internship
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="left">
-  <a href="https://github.com/emmydex">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<p>
+<a href="https://github.com/emmydex">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Final Statement
 
-I don’t just learn code — I build systems that behave like intelligent agents.
-
----
+I am building toward becoming a developer who creates intelligent autonomous systems — not just applications.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0d47a1&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0f172a&height=120&section=footer"/>
 </p>
