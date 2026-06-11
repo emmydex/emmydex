@@ -3,9 +3,8 @@
 <!-- HERO BANNER -->
 <!-- ===================== -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=220&section=header&text=Oluwafemi%20%7C%20AI%20%26%20Drone%20Systems%20Engineer&fontSize=26&fontColor=ffffff" />
-</p>
+  ![image alt](https://github.com/emmydex/emmydex/blob/3689470e1b3cc3747f55e58624e7bade680008d7/download.gif)
+
 
 ---
 
