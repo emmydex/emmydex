@@ -3,7 +3,7 @@
 <!-- HERO BANNER -->
 <!-- ===================== -->
 
-  ![image alt](https://github.com/emmydex/emmydex/blob/3689470e1b3cc3747f55e58624e7bade680008d7/download.gif)
+  ![image alt]width="1920" height="1080"(https://github.com/emmydex/emmydex/blob/3689470e1b3cc3747f55e58624e7bade680008d7/download.gif)
 
 
 ---
