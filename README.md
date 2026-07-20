@@ -3,8 +3,11 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img width="1920" src=""C:\Users\USER\Downloads\icon_noir.svg""/>
+  <img width="1920" src="icon_noir.svg" width="300" height="300"/>
 </p>
+<h4 align="center">
+Analyze, Learn, Improve
+<h4/>
 
 <h1 align="center">
 TRADING • AUTONOMOUS SYSTEMS • ARTIFICIAL INTELLIGENCE
