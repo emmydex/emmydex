@@ -3,8 +3,11 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img width="1920" src="YOUR_BANNER_HERE"/>
+  <img width="1920" src="icon_noir.svg" width="300" height="300"/>
 </p>
+<h4 align="center">
+Analyze, Learn, Improve
+<h4/>
 
 <h1 align="center">
 TRADING • AUTONOMOUS SYSTEMS • ARTIFICIAL INTELLIGENCE
@@ -16,7 +19,7 @@ Building intelligent software that analyzes, learns, and improves.
 
 ---
 
-# 👋 Hello, I'm Oluwafemi
+# Hello, I'm olúwáfẹ́mi
 
 I'm a Python developer passionate about designing intelligent software that solves real-world problems.
 
@@ -168,13 +171,7 @@ Future projects will combine AI with autonomous drone navigation.
 
 # 📈 GitHub Statistics
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=emmydex&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=emmydex&theme=tokyonight"/>
-
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=emmydex&show_icons=true&theme=tokyonight" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=emmydex&theme=tokyonight" height="170"/> </p>
 
 ---
 
