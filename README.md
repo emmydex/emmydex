@@ -19,7 +19,7 @@ Building intelligent software that analyzes, learns, and improves.
 
 ---
 
-# 👋 Hello, I'm Oluwafemi
+# Hello, I'm olúwáfẹ́mi
 
 I'm a Python developer passionate about designing intelligent software that solves real-world problems.
 
