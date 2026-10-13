@@ -19,7 +19,7 @@ Building intelligent software that analyzes, learns, and improves.
 
 ---
 
-# Hello, I'm olúwáfẹ́mi
+# Hello, I'm olúwáfẹ́mi🍀
 
 I'm a Python developer passionate about designing intelligent software that solves real-world problems.
 
@@ -36,18 +36,11 @@ I enjoy creating software from the ground up—from architecture and backend log
 # 🧠 Engineering Philosophy
 
 Every project I build follows the same principles:
-
-✔ Build with structure
-
-✔ Write clean, modular code
-
-✔ Design before implementation
-
-✔ Solve real problems
-
-✔ Continuously improve
-
-> **Analyze • Learn • Improve**
+  ✔ Build with structure
+  ✔ Write clean, modular code
+  ✔ Design before implementation
+  ✔ Solve real problems
+  ✔ Continuously improve
 
 ---
 
@@ -162,11 +155,12 @@ Future projects will combine AI with autonomous drone navigation.
 - Desktop Software Development
 - Trading Analytics
 - Software Architecture
+  
+# Down the Line
+ 
 - Autonomous Drone Navigation
 - Computer Vision
 - Machine Learning
-- UI / UX Design
-
 ---
 
 # 📈 GitHub Statistics
@@ -189,7 +183,7 @@ Future projects will combine AI with autonomous drone navigation.
 
 ### Software
 
-- ✅ Complete Trading Journal V4
+- ✅ Complete Trading Journal GUI V1
 - 🔄 Trading Journal V5
 - 📊 Build Advanced Analytics Dashboard
 
@@ -209,7 +203,7 @@ Future projects will combine AI with autonomous drone navigation.
 
 - Contribute to Open Source
 - Build Production-Level Portfolio
-- Secure a Software Engineering / AI Internship
+- Secure a Software Internship
 
 ---
 
@@ -226,11 +220,9 @@ Future projects will combine AI with autonomous drone navigation.
 ---
 
 # ⚡ Final Thoughts
-
-I enjoy building software that goes beyond simple scripts.
-
-Whether it's analyzing trading performance, navigating autonomous drones, or developing intelligent systems, my goal is always the same:
-
+The Mission is simple: Die empty.
+Using every Gift, sharing every lesson, Whether it's analyzing trading performance, navigating autonomous drones, or developing intelligent systems, the mission is always the same:
+> Write. Produce. Create. Build
 > Build software that helps people make better decisions.
 
 ---
